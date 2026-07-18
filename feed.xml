@@ -56,5 +56,21 @@
     <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
   </item>
 
+  <item>
+    <title>第7話:第7章 心の問題</title>
+    <description>セラピー(心理療法)における「私的な関係」と「社会的な関係」の区別。セラピストに求められる第4次元的な責任と、家族療法・グロリアの記録映画に見る認識論的な要求について。</description>
+    <enclosure url="https://raw.githubusercontent.com/lessentielestinvisiblepouryeux-beep/my-private-podcast/main/%E6%88%90%E4%BA%BA%E7%99%BA%E9%81%94%E7%90%86%E8%AB%96No.7%E7%AB%A0_%E5%BF%83%E3%81%AE%E5%95%8F%E9%A1%8C.mp3" length="40265318" type="audio/mpeg"/>
+    <guid>episode07</guid>
+    <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+  </item>
+
+  <item>
+    <title>第8話:第8章 学び</title>
+    <description>成人の学びに対する精神的要求。教育・研修の場面で、私たちがどれほど高い意識段階を暗黙のうちに前提としているかについて。</description>
+    <enclosure url="https://raw.githubusercontent.com/lessentielestinvisiblepouryeux-beep/my-private-podcast/main/%E6%88%90%E4%BA%BA%E7%99%BA%E9%81%94%E7%90%86%E8%AB%96No.8%E7%AB%A0_%E5%AD%A6%E3%81%B3.mp3" length="36595308" type="audio/mpeg"/>
+    <guid>episode08</guid>
+    <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+  </item>
+
 </channel>
 </rss>
