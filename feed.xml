@@ -80,5 +80,21 @@
     <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
   </item>
 
+  <item>
+    <title>第10話:第10章 よき旅の道連れ</title>
+    <description>人生における良き伴走者・良き支援者について。旅の比喩を通じて、成長を支える関係性のあり方を論じる。</description>
+    <enclosure url="https://raw.githubusercontent.com/lessentielestinvisiblepouryeux-beep/my-private-podcast/main/%E6%88%90%E4%BA%BA%E7%99%BA%E9%81%94%E7%90%86%E8%AB%96No.10%E7%AB%A0_%E3%82%88%E3%81%8D%E6%97%85%E3%81%AE%E9%81%93%E9%80%A3%E3%82%8C.mp3" length="25165824" type="audio/mpeg"/>
+    <guid>episode10</guid>
+    <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
+  </item>
+
+  <item>
+    <title>第11話:エンディング(エピローグ・謝辞・原注・索引)</title>
+    <description>本書全体を締めくくるエピローグと、著者からの謝辞、原注、索引を含む巻末部分。</description>
+    <enclosure url="https://raw.githubusercontent.com/lessentielestinvisiblepouryeux-beep/my-private-podcast/main/%E6%88%90%E4%BA%BA%E7%99%BA%E9%81%94%E7%90%86%E8%AB%96No.11%E3%80%80%E3%82%A8%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0.mp3" length="14889779" type="audio/mpeg"/>
+    <guid>episode11</guid>
+    <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+  </item>
+
 </channel>
 </rss>
