@@ -49,27 +49,11 @@
   </item>
 
   <item>
-    <title>第6話:第6章前半 性格の不一致ではなくOSのズレ</title>
-    <description>構成主義的発達理論の視点から見る、性格・文化・男女の違い。「性格が合わない」のではなく、意識の発達段階(OS)がズレているという捉え方について。</description>
-    <enclosure url="https://raw.githubusercontent.com/lessentielestinvisiblepouryeux-beep/my-private-podcast/main/%E6%88%90%E4%BA%BA%E7%99%BA%E9%81%94%E7%90%86%E8%AB%96No.6_%E5%89%8D%E5%8D%8A%EF%BC%9A%E6%80%A7%E6%A0%BC%E3%81%AE%E4%B8%8D%E4%B8%80%E8%87%B4%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8FOS%E3%81%AE%E3%82%BA%E3%83%AC.m4a" length="30723175" type="audio/x-m4a"/>
-    <guid>episode06a</guid>
+    <title>第6話:第6章 性格・文化・男女の違い</title>
+    <description>構成主義的発達理論と「タイプ別診断」の違い。「性格が合わない」のではなく、意識の発達段階(OS)がズレているという捉え方。男女間のコミュニケーションと意識の次元について。</description>
+    <enclosure url="https://raw.githubusercontent.com/lessentielestinvisiblepouryeux-beep/my-private-podcast/main/%E6%88%90%E4%BA%BA%E7%99%BA%E9%81%94%E7%90%86%E8%AB%96No.6.mp3" length="31247564" type="audio/mpeg"/>
+    <guid>episode06</guid>
     <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
-  </item>
-
-  <item>
-    <title>第7話:第6章後半 意識のOSを最新版にアップデートする</title>
-    <description>構成主義的発達理論の続き。男女間のコミュニケーションと意識の次元、そして自分の意識のOSをどう更新していくか。</description>
-    <enclosure url="https://raw.githubusercontent.com/lessentielestinvisiblepouryeux-beep/my-private-podcast/main/%E6%88%90%E4%BA%BA%E7%99%BA%E9%81%94%E7%90%86%E8%AB%96No.6_%E5%BE%8C%E5%8D%8A%EF%BC%9A%E6%84%8F%E8%AD%98%E3%81%AEOS%E3%82%92%E6%9C%80%E6%96%B0%E7%89%88%E3%81%AB%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E3%81%99%E3%82%8B.m4a" length="32715571" type="audio/x-m4a"/>
-    <guid>episode06b</guid>
-    <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-  </item>
-
-  <item>
-    <title>第8話:第7章前半 セラピーに潜む合格不可能なテスト</title>
-    <description>サイコセラピーの議論されていない要求。「私的」と「社会的」の違いと、セラピーという営みに潜む構造について。</description>
-    <enclosure url="https://raw.githubusercontent.com/lessentielestinvisiblepouryeux-beep/my-private-podcast/main/%E6%88%90%E4%BA%BA%E7%99%BA%E9%81%94%E7%90%86%E8%AB%96No.7_%E5%89%8D%E5%8D%8A_%E3%82%BB%E3%83%A9%E3%83%94%E3%83%BC%E3%81%AB%E6%BD%9C%E3%82%80%E5%90%88%E6%A0%BC%E4%B8%8D%E5%8F%AF%E8%83%BD%E3%81%AA%E3%83%86%E3%82%B9%E3%83%88.m4a" length="34078720" type="audio/x-m4a"/>
-    <guid>episode07a</guid>
-    <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
   </item>
 
 </channel>
