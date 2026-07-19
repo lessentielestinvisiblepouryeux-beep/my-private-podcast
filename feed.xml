@@ -4,7 +4,7 @@
   <title>読書Podcast(自分専用)</title>
   <link>https://raw.githubusercontent.com/lessentielestinvisiblepouryeux-beep/my-private-podcast/main/feed.xml</link>
   <itunes:author>あなたの名前</itunes:author>
-  <description>気になった本をAIで音声化し、先生と生徒の対話形式で読み解く、自分専用の読書Podcast。シーズン(Season)ごとに1冊の本を扱います。Season1はロバート・キーガン『なぜ私たちは現代社会で「生きづらさ」を抱えているのか』。</description>
+  <description>気になった本をAIで音声化し、先生と生徒の対話形式で読み解く、自分専用の読書Podcast。シーズン(Season)ごとに1冊の本を扱います。Season1はロバート・キーガン『なぜ私たちは現代社会で「生きづらさ」を抱えているのか』。Season2はオットー・シャーマー『U理論』。</description>
   <itunes:image href="https://raw.githubusercontent.com/lessentielestinvisiblepouryeux-beep/my-private-podcast/main/cover.jpg"/>
   <language>ja</language>
   <itunes:type>serial</itunes:type>
@@ -117,6 +117,16 @@
     <enclosure url="https://raw.githubusercontent.com/lessentielestinvisiblepouryeux-beep/my-private-podcast/main/%E6%88%90%E4%BA%BA%E7%99%BA%E9%81%94%E7%90%86%E8%AB%96No.11%E3%80%80%E3%82%A8%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0.mp3" length="14889779" type="audio/mpeg"/>
     <guid>episode11</guid>
     <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+  </item>
+
+  <item>
+    <title>第1話:前書き・第1章 盲点(ブラインドスポット)とは何か</title>
+    <description>U理論シリーズ第1回。オットー・シャーマー博士が提唱する組織変革・イノベーションのための理論であること、日本におけるU理論の受容史(震災復興での実践例など)を紹介。現代社会が抱える3つの分断(環境的・社会的・精神的)と、核心概念『盲点』——介入者の内面の状態こそが鍵だという洞察——を、火事のエピソードを通じて掘り下げる。</description>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <enclosure url="https://raw.githubusercontent.com/lessentielestinvisiblepouryeux-beep/my-private-podcast/main/U%E7%90%86%E8%AB%96No1.%E3%80%801%E7%AB%A0.mp3" length="20331458" type="audio/mpeg"/>
+    <guid>season2-episode01</guid>
+    <pubDate>Sun, 19 Jul 2026 00:00:00 GMT</pubDate>
   </item>
 
 </channel>
