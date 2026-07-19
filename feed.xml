@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
-  <title>成人発達理論を読む(自分専用)</title>
+  <title>読書Podcast(自分専用)</title>
   <link>https://raw.githubusercontent.com/lessentielestinvisiblepouryeux-beep/my-private-podcast/main/feed.xml</link>
   <itunes:author>あなたの名前</itunes:author>
-  <description>ロバート・キーガン『なぜ私たちは現代社会で「生きづらさ」を抱えているのか』を、先生と生徒の対話形式で読み解くPodcast(非公開・自分専用)</description>
+  <description>気になった本をAIで音声化し、先生と生徒の対話形式で読み解く、自分専用の読書Podcast。シーズン(Season)ごとに1冊の本を扱います。Season1はロバート・キーガン『なぜ私たちは現代社会で「生きづらさ」を抱えているのか』。</description>
   <itunes:image href="https://raw.githubusercontent.com/lessentielestinvisiblepouryeux-beep/my-private-podcast/main/cover.jpg"/>
   <language>ja</language>
+  <itunes:type>serial</itunes:type>
 
   <item>
     <title>第1話:前付け・第1章</title>
     <description>監訳者まえがき、プロローグ、日本語版序文、そして第1章「ティーンエイジャーに課される隠されたカリキュラム」。成人発達理論の導入と、「大人になる前」に対する精神的要求について。</description>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>1</itunes:episode>
     <enclosure url="https://raw.githubusercontent.com/lessentielestinvisiblepouryeux-beep/my-private-podcast/main/%E6%88%90%E4%BA%BA%E7%99%BA%E9%81%94%E7%90%86%E8%AB%96No.1.mp3" length="37679272" type="audio/mpeg"/>
     <guid>episode01</guid>
     <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
@@ -19,6 +22,8 @@
   <item>
     <title>第2話:第2章 どんな手を差し伸べるのか</title>
     <description>教育者や社会が担う「橋」の役割。現代文化の「環境」と「支援」をどう評価するか。</description>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>2</itunes:episode>
     <enclosure url="https://raw.githubusercontent.com/lessentielestinvisiblepouryeux-beep/my-private-podcast/main/%E6%88%90%E4%BA%BA%E7%99%BA%E9%81%94%E7%90%86%E8%AB%96No.2.mp3" length="55505231" type="audio/mpeg"/>
     <guid>episode02</guid>
     <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
@@ -27,6 +32,8 @@
   <item>
     <title>第3話:第3章 親子関係</title>
     <description>親子・夫婦関係に対する精神的要求はなぜ起こるのか。子どもに心を配るということ。</description>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>3</itunes:episode>
     <enclosure url="https://raw.githubusercontent.com/lessentielestinvisiblepouryeux-beep/my-private-podcast/main/%E6%88%90%E4%BA%BA%E7%99%BA%E9%81%94%E7%90%86%E8%AB%96No.3.mp3" length="49276385" type="audio/mpeg"/>
     <guid>episode03</guid>
     <pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate>
@@ -35,6 +42,8 @@
   <item>
     <title>第4話:第4章 夫婦関係</title>
     <description>愛と意識、「心理的な自立」の本当の意味。夫婦間のコミュニケーションと第4次元の意識。</description>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>4</itunes:episode>
     <enclosure url="https://raw.githubusercontent.com/lessentielestinvisiblepouryeux-beep/my-private-podcast/main/%E6%88%90%E4%BA%BA%E7%99%BA%E9%81%94%E7%90%86%E8%AB%96No.4.mp3" length="50124843" type="audio/mpeg"/>
     <guid>episode04</guid>
     <pubDate>Sat, 04 Jul 2026 00:00:00 GMT</pubDate>
@@ -43,6 +52,8 @@
   <item>
     <title>第5話:第5章 仕事</title>
     <description>職場や社会における精神的要求。自律的なプロフェッショナルを雇おうとすることについて。</description>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>5</itunes:episode>
     <enclosure url="https://raw.githubusercontent.com/lessentielestinvisiblepouryeux-beep/my-private-podcast/main/%E6%88%90%E4%BA%BA%E7%99%BA%E9%81%94%E7%90%86%E8%AB%96No.5.mp3" length="38900549" type="audio/mpeg"/>
     <guid>episode05</guid>
     <pubDate>Sun, 05 Jul 2026 00:00:00 GMT</pubDate>
@@ -51,6 +62,8 @@
   <item>
     <title>第6話:第6章 性格・文化・男女の違い</title>
     <description>構成主義的発達理論と「タイプ別診断」の違い。「性格が合わない」のではなく、意識の発達段階(OS)がズレているという捉え方。男女間のコミュニケーションと意識の次元について。</description>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>6</itunes:episode>
     <enclosure url="https://raw.githubusercontent.com/lessentielestinvisiblepouryeux-beep/my-private-podcast/main/%E6%88%90%E4%BA%BA%E7%99%BA%E9%81%94%E7%90%86%E8%AB%96No.6.mp3" length="31247564" type="audio/mpeg"/>
     <guid>episode06</guid>
     <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
@@ -59,6 +72,8 @@
   <item>
     <title>第7話:第7章 心の問題</title>
     <description>セラピー(心理療法)における「私的な関係」と「社会的な関係」の区別。セラピストに求められる第4次元的な責任と、家族療法・グロリアの記録映画に見る認識論的な要求について。</description>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>7</itunes:episode>
     <enclosure url="https://raw.githubusercontent.com/lessentielestinvisiblepouryeux-beep/my-private-podcast/main/%E6%88%90%E4%BA%BA%E7%99%BA%E9%81%94%E7%90%86%E8%AB%96No.7%E7%AB%A0_%E5%BF%83%E3%81%AE%E5%95%8F%E9%A1%8C.mp3" length="40265318" type="audio/mpeg"/>
     <guid>episode07</guid>
     <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
@@ -67,6 +82,8 @@
   <item>
     <title>第8話:第8章 学び</title>
     <description>成人の学びに対する精神的要求。教育・研修の場面で、私たちがどれほど高い意識段階を暗黙のうちに前提としているかについて。</description>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>8</itunes:episode>
     <enclosure url="https://raw.githubusercontent.com/lessentielestinvisiblepouryeux-beep/my-private-podcast/main/%E6%88%90%E4%BA%BA%E7%99%BA%E9%81%94%E7%90%86%E8%AB%96No.8%E7%AB%A0_%E5%AD%A6%E3%81%B3.mp3" length="36595308" type="audio/mpeg"/>
     <guid>episode08</guid>
     <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
@@ -75,6 +92,8 @@
   <item>
     <title>第9話:第9章 リーダーシップ・創造性</title>
     <description>リーダーシップを発揮すること、創造的であることに含まれる精神的要求について。組織や仕事の場面における意識の発達段階の役割。</description>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>9</itunes:episode>
     <enclosure url="https://raw.githubusercontent.com/lessentielestinvisiblepouryeux-beep/my-private-podcast/main/%E6%88%90%E4%BA%BA%E7%99%BA%E9%81%94%E7%90%86%E8%AB%96No.9%E3%80%80%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%B7%E3%83%83%E3%83%97%E3%83%BB%E5%89%B5%E9%80%A0%E6%80%A7.mp3" length="11219763" type="audio/mpeg"/>
     <guid>episode09</guid>
     <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
@@ -83,6 +102,8 @@
   <item>
     <title>第10話:第10章 よき旅の道連れ</title>
     <description>人生における良き伴走者・良き支援者について。旅の比喩を通じて、成長を支える関係性のあり方を論じる。</description>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>10</itunes:episode>
     <enclosure url="https://raw.githubusercontent.com/lessentielestinvisiblepouryeux-beep/my-private-podcast/main/%E6%88%90%E4%BA%BA%E7%99%BA%E9%81%94%E7%90%86%E8%AB%96No.10%E7%AB%A0_%E3%82%88%E3%81%8D%E6%97%85%E3%81%AE%E9%81%93%E9%80%A3%E3%82%8C.mp3" length="25165824" type="audio/mpeg"/>
     <guid>episode10</guid>
     <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
@@ -91,6 +112,8 @@
   <item>
     <title>第11話:エンディング(エピローグ・謝辞・原注・索引)</title>
     <description>本書全体を締めくくるエピローグと、著者からの謝辞、原注、索引を含む巻末部分。</description>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>11</itunes:episode>
     <enclosure url="https://raw.githubusercontent.com/lessentielestinvisiblepouryeux-beep/my-private-podcast/main/%E6%88%90%E4%BA%BA%E7%99%BA%E9%81%94%E7%90%86%E8%AB%96No.11%E3%80%80%E3%82%A8%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0.mp3" length="14889779" type="audio/mpeg"/>
     <guid>episode11</guid>
     <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
